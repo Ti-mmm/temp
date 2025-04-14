@@ -1,0 +1,16 @@
+filename = 'RoughlyEnoughItems-19.0.805-fabric.jar'
+name = 'Roughly Enough Items (REI)'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '169f593d0078b62ce337298444a1218bb51177ded452a7ab2f121a3e130d2f6a76bb74fe0c10b1dcdc80b1d0bff6a62dd5c01266169b74b1eee18adb2565d449'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/nfn13YXA/versions/uyitVQW4/RoughlyEnoughItems-19.0.805-fabric.jar'
+
+[update.modrinth]
+mod-id = 'nfn13YXA'
+version = 'uyitVQW4'

@@ -1,0 +1,16 @@
+filename = 'rrls-5.1.4+mc1.21.5-fabric.jar'
+name = 'Remove Reloading Screen'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.5' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'ed3b9f137393ddb077bae49d1fcb3c9115d120db86fca58ab5eaf10f28c1e35eb3f95035804e142b9adb7cbd961ea687e1cf3c007d554af7d41d49624070a6ce'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ZP7xHXtw/versions/cMitw6IS/rrls-5.1.4%2Bmc1.21.5-fabric.jar'
+
+[update.modrinth]
+mod-id = 'ZP7xHXtw'
+version = 'cMitw6IS'
