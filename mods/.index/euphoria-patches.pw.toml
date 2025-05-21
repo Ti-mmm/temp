@@ -1,0 +1,54 @@
+filename = 'EuphoriaPatcher-1.6.2-r5.5.1-fabric.jar'
+name = 'Euphoria Patcher'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.14',
+    '1.14.1',
+    '1.14.2',
+    '1.14.3',
+    '1.14.4',
+    '1.15',
+    '1.15.1',
+    '1.15.2',
+    '1.16',
+    '1.16.1',
+    '1.16.2',
+    '1.16.3',
+    '1.16.4',
+    '1.16.5',
+    '1.17',
+    '1.17.1',
+    '1.18',
+    '1.18.1',
+    '1.18.2',
+    '1.19',
+    '1.19.1',
+    '1.19.2',
+    '1.19.3',
+    '1.19.4',
+    '1.20',
+    '1.20.1',
+    '1.20.2',
+    '1.20.3',
+    '1.20.4',
+    '1.20.5',
+    '1.20.6',
+    '1.21',
+    '1.21.1',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.5'
+]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '55c171366250a60464ffaf348c8f1caa316488a7e3ab41f2214a60ee9790b2eceec79a069cca82c7cd62deaf6821e359e119fa7c5507a7d5273be2a129969bfa'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/4H6sumDB/versions/PJtihtgM/EuphoriaPatcher-1.6.2-r5.5.1-fabric.jar'
+
+[update.modrinth]
+mod-id = '4H6sumDB'
+version = 'PJtihtgM'
